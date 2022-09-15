@@ -8,8 +8,8 @@ function precmd() {
     fi
 }
 
-PROMPT="%(#,%{$fg[red]%},%{$fg[cyan]%})%n \
+PROMPT="%(#,%{$fg[red]%},%{$fg[green]%})%n \
 %{$reset_color%}at %{$fg[magenta]%}%M \
-%{$reset_color%}in %{$fg[green]%}%~
+%{$reset_color%}in %{$fg[cyan]%}%~
 %(?,%{$fg[green]%},%{$fg[red]%})➜ \
 %{$reset_color%}"
