@@ -1,6 +1,6 @@
 # alp
 
-alp is a simple zsh theme.
+alp is a simple theme with decorations for current directory, root status, username and host.
 
 ![20220920001912](https://img-1302660330.cos.ap-shanghai.myqcloud.com/20220920001912.png)
 
