@@ -2,7 +2,8 @@
 
 alp is a simple theme with decorations for current directory, root status, username and host.
 
-![20220920001912](https://img-1302660330.cos.ap-shanghai.myqcloud.com/20220920001912.png)
+![image](https://user-images.githubusercontent.com/32980146/235344926-7a41b1f0-0ed3-4bf5-a867-2a6f1b2bb8ac.png)
+
 
 ### Installation
 
